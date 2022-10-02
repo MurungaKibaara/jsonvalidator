@@ -19,7 +19,7 @@ Python3
 ## Installation
 
 ```bash
-  pip3 install jsonvalidator
+  pip3 install python-jsonvalidator
 ```
 
 ## Usage/Examples

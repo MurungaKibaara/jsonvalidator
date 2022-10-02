@@ -4,8 +4,8 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="jsonvalidator",
-    version="0.0.1",
+    name="python-jsonvalidator",
+    version="0.0.2",
     author="Murunga Kibaara",
     author_email="matatamatata3@gmail.com",
     description="""
